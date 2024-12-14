@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../rag/pdf_directory"
+		},
+		{
+			"path": "../rag/FlagEmbedding"
+		},
+		{
+			"path": "../rag/nodes"
+		}
+	],
+	"settings": {}
+}
