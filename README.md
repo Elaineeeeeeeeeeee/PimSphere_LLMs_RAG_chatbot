@@ -67,4 +67,4 @@ Open the app in your browser at:
 
 ```bash
 http://localhost:8501
-```bash
+```
